@@ -54,9 +54,31 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* combined the css coding by using the updated benefit-secondary classs */
+.content-secondary {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-secondary img {
+    max-height: 200px;
+}
+
+.content-secondary h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .float-left {
@@ -67,12 +89,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
@@ -103,24 +119,6 @@ p {
     max-width: 150px;
 }
 
-/* combined the css coding by using the updated benefit-secondary classs */
-.content-secondary {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-secondary img {
-    max-height: 200px;
-}
-
-.content-secondary h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
