@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*changed from class selector to header selector*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,6 +57,7 @@ p {
     margin-bottom: 25px;
 }
 
+/*reordered content and section classes*/
 .content {
     width: 75%;
     display: inline-block;
@@ -119,7 +121,7 @@ p {
     max-width: 150px;
 }
 
-
+/*changed from class selector to footer selector*/
 footer {
     padding: 30px;
     clear: both;
