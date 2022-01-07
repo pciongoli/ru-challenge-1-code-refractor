@@ -3,6 +3,10 @@
 # First code refractor challenge
 
 ## Purpose of this project
+* AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
 * The purpose of this project was to refract an existing/functional website in order to make sure that it is optomized for search engines
 
 * include and follow all accessibility standards.  
