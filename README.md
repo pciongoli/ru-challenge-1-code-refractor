@@ -13,10 +13,10 @@
 * Chaned each section to semantic html elements.
 * Consolidated div classes.
 * Added accessable alt atributes to each img.
+* Updated footer h2
 
 ## Steps taken in style.css
 * Reordered the content to match the html.
 * Combined CSS in with the new consolidated html classes in order to make more efficent and easier to manipulate.
 * Remeoved unneccessary CSS
 * Updated CSS for each updated section in html file.
-
